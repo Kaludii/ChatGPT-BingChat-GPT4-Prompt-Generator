@@ -6,7 +6,7 @@ Generates ChatGPT/BingChat & GPT-3 prompts using [this](https://huggingface.co/m
 Enter a role and a prompt will be generated based on it.
 
 # Web App
-Click [Here](edit "Here") To View This App Online!
+Click [Here](https://kaludii-chatgpt-bingchat-gpt3-prompt-generator-app-74j4vi.streamlit.app/ "Here") To View This App Online!
 
 ![Image](https://github.com/Kaludii/ChatGPT-BingChat-GPT3-Prompt-Generator/blob/main/images/ChatGPT-Prompt-Gen.png?raw=true)
 
