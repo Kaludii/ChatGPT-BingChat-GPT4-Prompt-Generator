@@ -42,7 +42,7 @@ The app uses Streamlit for the user interface and the Hugging Face Transformers 
 
 1.  Clone the repository:
 
-`git clone https://github.com/Kaludii/ChatGPT-BingChat-Prompt-Generator.git` 
+`git clone https://github.com/Kaludii/ChatGPT-BingChat-GPT3-Prompt-Generator.git` 
 
 2.  Install the required packages:
 
