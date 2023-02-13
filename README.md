@@ -8,7 +8,7 @@ Enter a role and a prompt will be generated based on it.
 # Web App
 Click [Here](edit "Here") To View This App Online!
 
-![Image](Image)
+![Image](https://github.com/Kaludii/ChatGPT-BingChat-GPT3-Prompt-Generator/blob/main/images/ChatGPT-Prompt-Gen.png?raw=true)
 
 ## Features
 
