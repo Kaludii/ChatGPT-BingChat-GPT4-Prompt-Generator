@@ -1,14 +1,14 @@
 
 # ChatGPT-BingChat Prompt Generator
 
-Generates ChatGPT/BingChat & GPT-3 prompts using [this](https://huggingface.co/merve/chatgpt-prompts-bart-long) model trained by Merve.
+Generates ChatGPT/BingChat & GPT-3 prompts using [this](https://huggingface.co/Kaludi/chatgpt-gpt4-prompts-bart-large-cnn-samsum) model trained by [Kaludi](https://huggingface.co/Kaludi).
 
 Enter a role and a prompt will be generated based on it.
 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/ChatGPT-BingChat-GPT3-Prompt-Generator_App "Here") To View This App Online!
 
-![Image](https://github.com/Kaludii/ChatGPT-BingChat-GPT3-Prompt-Generator/blob/main/images/ChatGPT-Prompt-Gen.png?raw=true)
+![image](https://user-images.githubusercontent.com/63890666/228079348-9df040ad-4068-4542-a9ad-319cb6717ccb.png)
 
 ## Features
 
